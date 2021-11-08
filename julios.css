@@ -1,0 +1,39 @@
+@media (max-width: 1000px) {
+
+ }
+.geral{
+    display: flex ;
+    background-color: bisque;
+}
+
+.cardapio{
+    background-color: tan;
+}
+
+/*estilização padrão*/
+
+
+.mb{
+    margin-bottom: 10px;
+}
+
+.marg{
+    margin: 20px;
+}
+
+
+
+.w50{
+    width: 50%;
+    
+}
+
+.left{
+    float: left;
+}
+
+.right{
+    float: right;
+}
+
+
